@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : haroun.barhoumi2001@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 haroun08/haroun08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
