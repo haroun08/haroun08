@@ -11,7 +11,7 @@ I’m looking to collaborate on web development projects. If you have an interes
 
 ## 📫 How to Reach Me
 - **Email**: haroun.barhoumi2001@gmail.com
-- **Discord**: haroun#5752
+- **Discord**: haroun_brh#5752
 
 ## 🔗 Connect with Me
 - **GitHub**: [haroun08](https://github.com/haroun08)
