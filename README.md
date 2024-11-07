@@ -14,9 +14,7 @@ I’m looking to collaborate on web development projects. If you have an interes
 - **Discord**: haroun_brh#5752
 
 ## 🔗 Connect with Me
-- **GitHub**: [haroun08](https://github.com/haroun08)
-- **YouTube**: [My Channel](https://www.youtube.com/@KunHaroun)
-- **Upwork**: [My Profile](https://www.upwork.com/freelancers/~017a977ffdd3ff4b4d)
+- **Upwork**: [My Profile](https://www.upwork.com/freelancers/~01a6cd41e65fca5fe1)
 - **LeetCode**: [My Profile](https://leetcode.com/u/haroun_brh/)
 - **CodeForces**: [My Profile](https://codeforces.com/profile/Haroun_brh.ar)
 
