@@ -22,6 +22,7 @@ I’m looking to collaborate on web development projects. If you have an interes
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haroun08&langs_count=8&theme=dark&icon_color=74A3FE&hide_border=true&title_color=74A3FE&text_color=FFFFFF&text_bold=false)
+<br />
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haroun08&theme=dark&icon_color=74A3FE&hide_border=true&title_color=74A3FE&text_color=FFFFFF&text_bold=false)
 <br/>
 <img align="center" src = "https://github-readme-streak-stats.herokuapp.com?user=haroun08&theme=dark&hide_border=false" width = 500>
@@ -30,6 +31,10 @@ I’m looking to collaborate on web development projects. If you have an interes
 
 ## 🏆 Competitive Programming Stats
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Haroun_brh.ar&theme=dark&icon_color=74A3FE&hide_border=true&title_color=74A3FE&text_color=FFFFFF&text_bold=false)
+<br />
+
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=haroun_brh&theme=tokyonight&ansimated=true)
+<br />
+
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=haroun_brh&theme=dark)
 
