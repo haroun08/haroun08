@@ -32,25 +32,26 @@ I’m looking to collaborate on web development projects. If you have an interes
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haroun08&theme=dark&icon_color=74A3FE&hide_border=true&title_color=74A3FE&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroun08&langs_count=8&theme=dark&icon_color=74A3FE&hide_border=true&title_color=74A3FE&text_color=FFFFFF" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haroun08&theme=dark&icon_color=74A3FE&hide_border=true&title_color=74A3FE&text_color=FFFFFF" alt="GitHub Stats" width="65%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haroun08&theme=dark" alt="GitHub Profile Summary" width="65%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=haroun08&theme=dark&hide_border=false" alt="GitHub Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haroun08&theme=dark" alt="GitHub Profile Summary" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroun08&layout=compact&langs_count=8&theme=dark&icon_color=74A3FE&hide_border=true&title_color=74A3FE&text_color=FFFFFF" alt="Top Languages" width="30%" />
 </p>
 
 ## 🏆 Competitive Programming Stats
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Haroun_brh.ar&theme=dark&icon_color=74A3FE&hide_border=true&title_color=74A3FE&text_color=FFFFFF" alt="Codeforces Stats" width="48%" />
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=haroun_brh&theme=tokyonight&animated=true" alt="LeetCode Badges" width="48%" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Haroun_brh.ar&theme=dark&icon_color=74A3FE&hide_border=true&title_color=74A3FE&text_color=FFFFFF" alt="Codeforces Stats" width="49%" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=haroun_brh&theme=tokyonight&animated=true" alt="LeetCode Badges" width="32%" />
 </p>
 
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=haroun_brh&theme=dark" alt="LeetCode Stats" width="48%" />
+  <img src="https://leetcode-stats.vercel.app/api?username=haroun_brh&theme=dark" alt="LeetCode Stats" width="43%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haroun08&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="48%" />
 </p>
 
@@ -59,4 +60,5 @@ I’m looking to collaborate on web development projects. If you have an interes
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,angular,bootstrap,typescript,c,cpp,css,dart,discord,docker,dotnet,figma,firebase,flutter,github,git,gradle,graphql,html,java,js,kafka,kali,latex,mongodb,mysql,netlify,nextjs,nodejs,npm,opencv,ps,php,postgres,postman,py,react,bash,symfony,threejs,unity,blender" alt="Tech Stack" />
 </p>
+
 
