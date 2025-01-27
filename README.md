@@ -35,6 +35,8 @@ I’m looking to collaborate on web development projects. If you have an interes
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,angular,bootstrap,typescript,c,cpp,css,dart,discord,docker,dotnet,figma,firebase,flutter,github,git,gradle,graphql,html,java,js,kafka,kali,latex,mongodb,mysql,netlify,nextjs,nodejs,npm,opencv,ps,php,postgres,postman,py,react,bash,symfony,threejs,unity,blender" alt="Tech Stack" />
 </p>
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
