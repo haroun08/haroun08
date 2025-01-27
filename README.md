@@ -60,13 +60,3 @@ I’m looking to collaborate on web development projects. If you have an interes
   <img src="https://skillicons.dev/icons?i=spring,angular,bootstrap,typescript,c,cpp,css,dart,discord,docker,dotnet,figma,firebase,flutter,github,git,gradle,graphql,html,java,js,kafka,kali,latex,mongodb,mysql,netlify,nextjs,nodejs,npm,opencv,ps,php,postgres,postman,py,react,bash,symfony,threejs,unity,blender" alt="Tech Stack" />
 </p>
 
-## 📈 Additional GitHub Insights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haroun08&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=haroun08&theme=dark&hide_border=true&title_color=74A3FE&text_color=FFFFFF" alt="WakaTime Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haroun08&repo=your-repo-name&theme=dark&hide_border=true&title_color=74A3FE&text_color=FFFFFF" alt="Pinned Repo" width="48%" />
-</p>
