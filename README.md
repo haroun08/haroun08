@@ -30,8 +30,11 @@ I’m looking to collaborate on web development projects. If you have an interes
 - **CodeForces**: [My Profile](https://codeforces.com/profile/Haroun_brh.ar)
 - **Portfolio**: [Visit My Portfolio](https://harounbarhoumi-portfolio.netlify.app/)
 
-## 📊 GitHub Stats
+## 🛠️ Technologies and Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,angular,bootstrap,typescript,c,cpp,css,dart,discord,docker,dotnet,figma,firebase,flutter,github,git,gradle,graphql,html,java,js,kafka,kali,latex,mongodb,mysql,netlify,nextjs,nodejs,npm,opencv,ps,php,postgres,postman,py,react,bash,symfony,threejs,unity,blender" alt="Tech Stack" />
+</p>
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -55,10 +58,6 @@ I’m looking to collaborate on web development projects. If you have an interes
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haroun08&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="48%" />
 </p>
 
-## 🛠️ Technologies and Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,angular,bootstrap,typescript,c,cpp,css,dart,discord,docker,dotnet,figma,firebase,flutter,github,git,gradle,graphql,html,java,js,kafka,kali,latex,mongodb,mysql,netlify,nextjs,nodejs,npm,opencv,ps,php,postgres,postman,py,react,bash,symfony,threejs,unity,blender" alt="Tech Stack" />
-</p>
 
 
