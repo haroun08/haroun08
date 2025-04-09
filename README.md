@@ -1,14 +1,14 @@
-# 👋 Hi, I’m Haroun (@haroun08)
+# 👋 Hi, I’m Haroun Barhoumi (@haroun08)
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=haroun08&label=Profile%20Views&color=0e75b6&style=flat" alt="haroun08" /> 
 </p>
 
 ## 👀 About Me
-I'm passionate about web development and constantly striving to learn more in this exciting field. My current focus is on expanding my knowledge and skills in web development.
+I'm a .NET backend developer with a strong passion for building scalable microservices architectures. I also enjoy crafting modern frontends using React, Angular, or Blazor. Constantly curious and eager to grow, I love solving complex problems and turning ideas into robust solutions.
 
 ## 🌱 Currently Learning
-I’m immersing myself in various web development technologies and best practices to enhance my expertise.
+I’m deepening my expertise in .NET technologies, microservices patterns, and frontend frameworks like React, Angular, and Blazor — all while exploring best practices in software architecture and clean code.
 
 ## 💼 Collaboration
 I’m looking to collaborate on web development projects. If you have an interesting project or idea, feel free to reach out!
