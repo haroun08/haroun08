@@ -42,7 +42,7 @@ I’m looking to collaborate on web development projects. If you have an interes
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haroun08&theme=dark&icon_color=74A3FE&hide_border=true&title_color=74A3FE&text_color=FFFFFF" alt="GitHub Stats" width="65%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haroun08&theme=dark" alt="GitHub Profile Summary" width="65%" />
-  <img src ="[https://streak-stats.demolab.com/?user=haroun08&theme=dark](https://streak-stats.demolab.com/?user=haroun08&theme=dark)"  alt="Github Streak" width="65%"/>
+  <img src ="https://streak-stats.demolab.com/?user=haroun08&theme=dark"  alt="Github Streak" width="65%"/>
 </p>
 
 <p align="center">
