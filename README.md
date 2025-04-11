@@ -36,17 +36,17 @@ I’m looking to collaborate on web development projects. If you have an interes
   <img src="https://skillicons.dev/icons?i=spring,angular,bootstrap,typescript,c,cpp,css,dart,discord,docker,dotnet,figma,firebase,flutter,github,git,gradle,graphql,html,java,js,kafka,kali,latex,mongodb,mysql,netlify,nextjs,nodejs,npm,opencv,ps,php,postgres,postman,py,react,bash,symfony,threejs,unity,blender" alt="Tech Stack" />
 </p>
 
-<br>
-## 📊 GitHub Stats
+##   📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haroun08&theme=dark&icon_color=74A3FE&hide_border=true&title_color=74A3FE&text_color=FFFFFF" alt="GitHub Stats" width="65%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haroun08&theme=dark" alt="GitHub Profile Summary" width="65%" />
-  <img src ="https://streak-stats.demolab.com/?user=haroun08&theme=dark"  alt="Github Streak" width="65%"/>
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=haroun08&theme=dark&hide_border=true"  alt="Github Streak" width="65%"/>
+  
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroun08&layout=compact&langs_count=8&theme=dark&icon_color=74A3FE&hide_border=true&title_color=74A3FE&text_color=FFFFFF" alt="Top Languages" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroun08&layout=compact&langs_count=8&theme=dark&icon_color=74A3FE&hide_border=true&title_color=74A3FE&text_color=FFFFFF" alt="Top Languages" width="65%" />
 </p>
 
 ## 🏆 Competitive Programming Stats
