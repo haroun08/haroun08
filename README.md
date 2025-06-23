@@ -5,10 +5,54 @@
 </p>
 
 ## 👀 About Me
-I'm a .NET backend developer with a strong passion for building scalable microservices architectures. I also enjoy crafting modern frontends using React, Angular, or Blazor. Constantly curious and eager to grow, I love solving complex problems and turning ideas into robust solutions.
 
-## 🌱 Currently Learning
-I’m deepening my expertise in .NET technologies, microservices patterns, and frontend frameworks like React, Angular, and Blazor — all while exploring best practices in software architecture and clean code.
+I'm a passionate and driven **.NET backend developer** with a strong focus on building **scalable, resilient, and maintainable microservices architectures**. I thrive on turning complex business requirements into robust, clean, and testable software solutions. My expertise spans the entire development lifecycle—from crafting efficient APIs and managing distributed systems, to deploying modern, interactive frontends using frameworks like **React**, **Angular**, and **Blazor**.
+
+With a strong appreciation for software craftsmanship, I strive to write code that is not only functional but also elegant, extensible, and aligned with **SOLID principles** and **clean architecture**.
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+I'm continually deepening my knowledge in:
+
+- **.NET Ecosystem**: ASP.NET Core, EF Core, gRPC, Minimal APIs
+- **Microservices Design Patterns**:
+  - 🧩 **API Gateway**
+  - 🔍 **Service Discovery** (e.g., Consul, Eureka)
+  - 🔁 **Retry** and ❌ **Circuit Breaker** with Polly
+  - 🧱 **Bulkhead Pattern**
+  - 🌱 **Strangler Fig Pattern**
+  - 🔄 **Saga Pattern** (Choreography & Orchestration)
+  - 📦 **Outbox Pattern** for reliable messaging
+- **CQRS (Command Query Responsibility Segregation)**: Separating read/write models for better performance and scalability
+- **Event-Driven Architecture**: Kafka, RabbitMQ, Azure Service Bus for loosely coupled async systems
+- **Domain-Driven Design (DDD)**:
+  - Strategic: **Bounded Contexts**, **Context Mapping**
+  - Tactical: **Entities**, **Aggregates**, **Value Objects**, **Repositories**, **Domain Events**
+- **DevOps & Observability**:
+  - Docker, Kubernetes
+  - GitHub Actions, Azure DevOps
+  - Prometheus, Grafana, OpenTelemetry
+- **CI/CD Pipelines** and Infrastructure as Code with **Terraform**
+
+---
+
+## 🧠 Philosophy
+
+I believe that great software is the result of aligning **business needs** with **well-crafted code** and **robust architecture**. My development approach emphasizes:
+
+- ✅ **Separation of Concerns**
+- 🔄 **Loose Coupling & High Cohesion**
+- 📦 **Autonomous Services** that own their data and logic
+- 🕊️ **Eventual Consistency** over brittle synchronous communication
+- 🧠 Designing within **Bounded Contexts** to avoid distributed monoliths
+- 🚀 Rapid delivery of **business value** without compromising code quality
+
+---
+
+If you're looking for a developer who not only understands the intricacies of .NET and modern architectures but also has a passion for learning, collaboration, and delivering clean solutions — let's connect!
+
 
 ## 💼 Collaboration
 I’m looking to collaborate on web development projects. If you have an interesting project or idea, feel free to reach out!
