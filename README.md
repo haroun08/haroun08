@@ -53,9 +53,8 @@ I believe that great software is the result of aligning **business needs** with 
 
 If you're looking for a developer who not only understands the intricacies of .NET and modern architectures but also has a passion for learning, collaboration, and delivering clean solutions — let's connect!
 
+---
 
-## 💼 Collaboration
-I’m looking to collaborate on web development projects. If you have an interesting project or idea, feel free to reach out!
 
 ## 🏆 GitHub Trophies
 <p align="left">
@@ -63,6 +62,7 @@ I’m looking to collaborate on web development projects. If you have an interes
     <img src="https://github-profile-trophy.vercel.app/?username=haroun08&theme=gruvbox&no-frame=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
+---
 
 ## 📫 How to Reach Me
 - **Email**: [haroun.barhoumi2001@gmail.com](mailto:haroun.barhoumi2001@gmail.com)
