@@ -19,7 +19,7 @@ I'm continually deepening my knowledge in:
 - **.NET Ecosystem**: ASP.NET Core, EF Core, gRPC, Minimal APIs
 - **Microservices Design Patterns**:
   - 🧩 **API Gateway**
-  - 🔍 **Service Discovery** (e.g., Consul, Eureka)
+  - 🔍 **Service Discovery** ( Eureka)
   - 🔁 **Retry** and ❌ **Circuit Breaker** with Polly
   - 🧱 **Bulkhead Pattern**
   - 🌱 **Strangler Fig Pattern**
